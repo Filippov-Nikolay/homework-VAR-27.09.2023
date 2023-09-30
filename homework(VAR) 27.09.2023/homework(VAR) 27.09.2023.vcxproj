@@ -128,6 +128,10 @@
   </ItemDefinitionGroup>
   <ItemGroup>
     <ClCompile Include="homework(VAR) 27.09.2023.cpp" />
+    <ClCompile Include="var.cpp" />
+  </ItemGroup>
+  <ItemGroup>
+    <ClInclude Include="var.h" />
   </ItemGroup>
   <Import Project="$(VCTargetsPath)\Microsoft.Cpp.targets" />
   <ImportGroup Label="ExtensionTargets">
